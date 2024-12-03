@@ -1,0 +1,220 @@
+Date,Ad Platform,Campaign Name,Ad Type,Impressions,Clicks,Conversions,Spend (USD),Revenue (USD),Region,Audience Age Group,Audience Gender
+2024-11-01,LinkedIn,B2B Outreach,Text,14035,1248,185,1463.6,4408.54,Asia,35-44,All
+2024-11-01,Instagram,B2B Outreach,Text,74347,6779,1144,1617.17,6143.25,Europe,45-54,All
+2024-11-01,LinkedIn,Holiday Sale,Image,49180,2340,104,664.83,1930.34,North America,35-44,All
+2024-11-01,Facebook,Flash Deals,Image,37286,642,100,248.92,733.55,Europe,45-54,All
+2024-11-01,Instagram,Fall Promo,Text,58064,4372,165,235.83,687.99,North America,45-54,Female
+2024-11-01,Google,Holiday Sale,Image,36036,2088,340,533.41,2125.6,Global,35-44,All
+2024-11-02,Instagram,New Year Prep,Text,21459,1825,352,593.25,2128.77,North America,18-24,All
+2024-11-02,Instagram,Flash Deals,Carousel,33015,2081,329,795.67,1368.76,North America,35-44,Male
+2024-11-02,Google,Holiday Sale,Carousel,61040,5312,380,326.25,867.2,North America,35-44,Male
+2024-11-02,Facebook,Holiday Sale,Image,36392,2978,593,212.97,690.59,Asia,35-44,All
+2024-11-02,Google,Holiday Sale,Image,78615,3122,86,1263.38,2077.18,Asia,18-24,All
+2024-11-02,Google,Holiday Sale,Text,16112,1093,209,361.95,1393.77,Global,45-54,Male
+2024-11-02,Facebook,Fall Promo,Carousel,16437,956,76,1556.56,4676.4,Global,35-44,Female
+2024-11-02,Google,Fall Promo,Image,20642,1404,237,1230.57,3060.49,Global,18-24,Male
+2024-11-03,LinkedIn,Flash Deals,Carousel,23400,2086,135,827.26,2195.62,Europe,35-44,Female
+2024-11-03,LinkedIn,Flash Deals,Image,15005,754,65,752.6,1570.4,North America,35-44,All
+2024-11-03,LinkedIn,New Year Prep,Carousel,55059,3635,460,1993.83,3973.59,Asia,18-24,Male
+2024-11-03,Instagram,B2B Outreach,Image,53584,3758,62,794.35,3079.36,Global,45-54,Female
+2024-11-03,Instagram,Fall Promo,Image,31426,544,80,1604.53,2728.64,Asia,35-44,Male
+2024-11-03,LinkedIn,Holiday Sale,Video,17975,1211,192,934.65,2276.45,Global,45-54,Female
+2024-11-03,LinkedIn,Fall Promo,Video,93502,1416,109,1632.72,5394.3,Asia,18-24,Male
+2024-11-03,LinkedIn,Holiday Sale,Carousel,32134,837,63,1760.64,6501.3,Asia,18-24,Male
+2024-11-04,Facebook,Fall Promo,Carousel,97164,5996,666,1105.83,2947.12,Global,18-24,All
+2024-11-04,Instagram,Fall Promo,Carousel,14274,800,56,1750.21,4729.89,North America,45-54,Female
+2024-11-04,Instagram,Holiday Sale,Video,78993,3892,610,669.55,2019.69,Europe,35-44,All
+2024-11-04,Facebook,B2B Outreach,Video,50406,651,107,1464.54,3200.18,Asia,35-44,Male
+2024-11-04,Google,Flash Deals,Carousel,89445,7468,1038,300.94,1004.64,Global,45-54,All
+2024-11-04,LinkedIn,New Year Prep,Video,50047,2246,112,1805.81,6842.59,North America,25-34,All
+2024-11-04,Instagram,Holiday Sale,Video,58810,2125,77,1327.93,3046.69,Global,18-24,Female
+2024-11-04,Google,New Year Prep,Text,22471,998,154,1894.8,5334.43,North America,35-44,Male
+2024-11-04,Facebook,New Year Prep,Image,75847,671,114,1400.39,5023.23,North America,35-44,Female
+2024-11-04,Google,Holiday Sale,Carousel,95953,820,120,1603.24,2967.75,North America,45-54,Male
+2024-11-05,Instagram,Holiday Sale,Carousel,24656,1315,114,575.69,1128.2,Global,45-54,All
+2024-11-05,Google,B2B Outreach,Carousel,33180,551,97,852.3,2767.11,Global,25-34,Male
+2024-11-05,Instagram,Holiday Sale,Video,55698,5204,228,599.75,1195.57,Europe,18-24,All
+2024-11-05,Facebook,B2B Outreach,Text,31068,923,68,1417.98,5012.22,Global,25-34,Female
+2024-11-05,Instagram,Flash Deals,Video,75475,2221,439,1242.03,1867.1,Global,25-34,Male
+2024-11-06,Google,Holiday Sale,Video,98601,1098,131,1204.64,4436.08,Global,45-54,Female
+2024-11-06,Instagram,Flash Deals,Text,53452,4126,693,570.24,1401.31,Global,25-34,All
+2024-11-06,Facebook,Fall Promo,Image,82385,7511,803,672.25,1936.73,North America,45-54,All
+2024-11-06,Instagram,B2B Outreach,Video,57403,1565,238,1663.61,2558.26,Europe,35-44,Female
+2024-11-06,Google,New Year Prep,Video,39738,864,83,1979.83,7327.97,Asia,45-54,Male
+2024-11-06,Google,Fall Promo,Text,24059,1462,198,1836.23,6636.93,North America,45-54,Female
+2024-11-06,Instagram,B2B Outreach,Carousel,41927,3402,639,566.6,2211.8,Global,45-54,Female
+2024-11-07,LinkedIn,B2B Outreach,Carousel,44698,2348,163,891.14,3143.92,North America,18-24,Female
+2024-11-07,Facebook,Fall Promo,Carousel,21848,591,95,762.29,1208.57,Global,45-54,Female
+2024-11-07,Facebook,New Year Prep,Image,92244,912,78,1881.42,6327.84,Global,35-44,Male
+2024-11-07,Facebook,Holiday Sale,Text,19595,763,151,973.4,1561.64,Asia,18-24,All
+2024-11-07,LinkedIn,Holiday Sale,Image,79895,3544,130,1244.24,3428.08,North America,25-34,All
+2024-11-07,LinkedIn,New Year Prep,Text,50397,538,52,1004.76,1900.19,Asia,18-24,Female
+2024-11-07,LinkedIn,B2B Outreach,Text,34569,2724,251,1767.03,4629.37,Asia,35-44,All
+2024-11-07,Google,New Year Prep,Carousel,74891,5908,1099,1320.96,4642.06,North America,18-24,Female
+2024-11-07,Instagram,New Year Prep,Text,91161,6727,621,1631.1,5183.0,Global,18-24,All
+2024-11-07,Facebook,B2B Outreach,Carousel,10603,798,68,1217.72,2629.09,Asia,35-44,Female
+2024-11-08,Facebook,Flash Deals,Video,60618,3251,212,260.73,477.78,Global,25-34,Male
+2024-11-08,Instagram,Holiday Sale,Image,19028,1323,183,1348.61,4441.0,Global,18-24,Male
+2024-11-08,Instagram,Flash Deals,Video,92660,2418,128,1792.5,5946.24,North America,25-34,Male
+2024-11-08,Facebook,Holiday Sale,Text,62673,5273,606,1451.65,2980.2,Global,35-44,All
+2024-11-08,LinkedIn,New Year Prep,Video,34424,637,124,175.7,339.44,North America,35-44,All
+2024-11-09,LinkedIn,New Year Prep,Video,79670,4059,378,675.8,2005.78,North America,45-54,All
+2024-11-09,LinkedIn,Fall Promo,Carousel,63039,4312,303,1879.12,7042.4,Europe,18-24,Male
+2024-11-09,Instagram,New Year Prep,Video,32812,1697,309,1490.63,5125.28,Asia,25-34,Male
+2024-11-09,Google,New Year Prep,Image,65464,5046,287,1627.85,6068.46,North America,25-34,Female
+2024-11-09,LinkedIn,Fall Promo,Image,59518,3191,234,674.8,1893.16,Asia,45-54,Female
+2024-11-10,Instagram,Fall Promo,Text,90702,7070,995,713.45,2240.68,Asia,45-54,All
+2024-11-10,Google,New Year Prep,Image,42922,1429,273,273.0,414.86,Asia,35-44,Male
+2024-11-10,LinkedIn,Fall Promo,Video,29788,2290,325,1120.96,1986.78,Global,35-44,Male
+2024-11-10,LinkedIn,Fall Promo,Image,13393,1230,199,113.85,182.87,Europe,25-34,All
+2024-11-10,LinkedIn,Holiday Sale,Video,82146,631,84,1863.2,5718.23,Europe,25-34,Male
+2024-11-10,Google,New Year Prep,Image,50820,1412,58,167.57,259.27,North America,18-24,Male
+2024-11-10,Instagram,Flash Deals,Video,50558,3490,143,682.59,1906.1,North America,45-54,Female
+2024-11-10,Instagram,Fall Promo,Image,27699,2714,273,750.91,2457.37,North America,45-54,Female
+2024-11-11,Facebook,Flash Deals,Image,40008,3928,546,944.06,3305.91,Global,45-54,Male
+2024-11-11,LinkedIn,Holiday Sale,Image,81195,5568,913,1345.02,4215.99,Global,35-44,Female
+2024-11-11,Instagram,New Year Prep,Image,63637,1756,87,337.19,1343.77,North America,18-24,Female
+2024-11-11,Facebook,B2B Outreach,Image,62631,1924,265,1507.98,2741.23,Global,35-44,Male
+2024-11-11,LinkedIn,Fall Promo,Video,90367,6372,327,959.54,3668.13,Europe,25-34,All
+2024-11-11,Google,New Year Prep,Text,73227,567,109,581.54,997.1,North America,45-54,Female
+2024-11-11,Facebook,Fall Promo,Text,48099,507,78,223.96,533.44,Europe,18-24,Female
+2024-11-11,Google,New Year Prep,Image,19309,1236,50,1818.57,6806.95,North America,35-44,Male
+2024-11-11,Google,Fall Promo,Video,86154,1313,197,133.91,222.41,Global,35-44,All
+2024-11-11,Facebook,Flash Deals,Carousel,30583,947,69,1396.38,3528.1,Asia,25-34,All
+2024-11-12,Facebook,Flash Deals,Image,17139,678,72,664.07,2587.12,Asia,45-54,Male
+2024-11-12,Instagram,Fall Promo,Image,68351,4880,841,129.04,395.03,Europe,25-34,Male
+2024-11-12,Google,New Year Prep,Image,15966,1479,53,1062.46,2163.6,Europe,35-44,Female
+2024-11-12,Instagram,Flash Deals,Image,15397,1108,107,523.73,1082.6,Global,35-44,All
+2024-11-12,Facebook,New Year Prep,Carousel,80937,1144,59,357.61,1145.06,Europe,25-34,Female
+2024-11-13,LinkedIn,Holiday Sale,Video,86419,3488,640,1799.58,6775.51,Asia,45-54,Female
+2024-11-13,Facebook,Fall Promo,Image,13724,813,55,1922.96,4171.29,Global,35-44,Female
+2024-11-13,Google,Fall Promo,Carousel,19261,919,175,920.78,2051.8,North America,25-34,Male
+2024-11-13,Google,B2B Outreach,Video,90019,1226,50,551.1,1327.58,Europe,25-34,Female
+2024-11-13,LinkedIn,B2B Outreach,Video,27939,1513,173,770.01,2068.18,Global,45-54,All
+2024-11-13,LinkedIn,B2B Outreach,Image,70235,4660,788,256.93,569.77,Europe,18-24,All
+2024-11-13,Instagram,Flash Deals,Text,56733,1125,159,1129.47,3563.13,Asia,25-34,Male
+2024-11-14,Google,Fall Promo,Video,38277,2978,516,1595.29,5149.58,North America,45-54,Male
+2024-11-14,Google,Flash Deals,Image,72155,6031,908,1390.96,4210.73,Europe,25-34,All
+2024-11-14,LinkedIn,New Year Prep,Image,71310,3627,299,289.28,978.53,Asia,18-24,All
+2024-11-14,LinkedIn,Flash Deals,Video,53851,4425,222,1398.65,3793.25,Asia,25-34,All
+2024-11-14,LinkedIn,Flash Deals,Image,69093,4796,860,1188.93,2112.78,Europe,35-44,Female
+2024-11-14,Facebook,New Year Prep,Image,40001,995,87,475.62,1306.5,Asia,25-34,Male
+2024-11-14,Facebook,Flash Deals,Image,96858,7893,1512,769.45,2610.21,Asia,45-54,Male
+2024-11-14,LinkedIn,Holiday Sale,Text,42736,3011,331,789.81,1438.06,Global,35-44,Male
+2024-11-14,Facebook,New Year Prep,Image,78255,6399,954,216.99,538.53,Europe,35-44,Male
+2024-11-15,LinkedIn,Fall Promo,Image,87963,1410,68,543.58,1203.58,North America,18-24,Female
+2024-11-15,Google,New Year Prep,Text,80028,2892,255,983.95,1983.51,Global,25-34,All
+2024-11-15,Google,Holiday Sale,Carousel,81715,1274,240,769.79,2413.47,Europe,35-44,Female
+2024-11-15,Google,Holiday Sale,Text,79353,1505,90,497.16,1678.51,Asia,35-44,Female
+2024-11-15,Instagram,Flash Deals,Image,71628,3926,525,999.71,2319.05,Global,25-34,All
+2024-11-15,LinkedIn,Flash Deals,Text,74475,7111,181,579.49,1973.94,Global,35-44,All
+2024-11-15,Instagram,Fall Promo,Carousel,21416,2094,291,1030.65,3039.34,Global,18-24,Male
+2024-11-15,Instagram,Holiday Sale,Video,33422,769,72,652.29,2278.62,North America,35-44,Female
+2024-11-16,Facebook,Holiday Sale,Carousel,23232,973,94,239.0,381.51,Asia,18-24,Female
+2024-11-16,Google,Flash Deals,Text,64192,1217,95,1263.73,3054.58,Global,25-34,Female
+2024-11-16,Google,B2B Outreach,Image,12671,1191,222,1240.6,2913.16,North America,25-34,All
+2024-11-16,LinkedIn,New Year Prep,Carousel,87807,5261,652,1957.97,7042.49,Asia,25-34,Female
+2024-11-16,Google,Fall Promo,Image,77366,6768,78,1057.08,3614.04,Europe,35-44,Male
+2024-11-16,Google,New Year Prep,Carousel,49256,2293,282,1670.79,3969.45,North America,18-24,All
+2024-11-16,Google,Fall Promo,Image,52483,3637,261,236.88,803.46,North America,45-54,Female
+2024-11-16,Google,B2B Outreach,Text,25970,743,62,767.49,2000.66,Europe,18-24,Female
+2024-11-16,Instagram,Holiday Sale,Carousel,60101,3934,78,1776.91,5646.98,North America,25-34,All
+2024-11-16,Google,New Year Prep,Image,17518,1615,160,1117.82,1789.29,North America,25-34,All
+2024-11-17,Google,B2B Outreach,Video,45818,1028,55,301.03,1177.75,North America,45-54,All
+2024-11-17,Google,Holiday Sale,Video,38348,3172,533,285.66,1133.93,North America,25-34,Male
+2024-11-17,LinkedIn,Flash Deals,Video,52406,4075,658,1769.99,2951.27,Europe,35-44,Male
+2024-11-17,LinkedIn,B2B Outreach,Image,29644,2702,82,950.53,1426.49,Asia,25-34,Female
+2024-11-17,Instagram,Fall Promo,Text,42021,1336,196,367.12,1328.94,Global,45-54,Male
+2024-11-17,LinkedIn,New Year Prep,Text,18633,1815,317,1595.13,2822.43,Global,18-24,All
+2024-11-18,LinkedIn,B2B Outreach,Text,32716,1146,124,1064.56,2081.16,Global,45-54,Female
+2024-11-18,Google,Holiday Sale,Text,48394,2836,279,343.88,690.79,Global,18-24,Female
+2024-11-18,LinkedIn,Fall Promo,Video,67990,4888,304,1182.38,4643.75,North America,45-54,All
+2024-11-18,Facebook,New Year Prep,Text,24333,713,52,305.6,588.03,Europe,45-54,Female
+2024-11-18,Instagram,Holiday Sale,Text,51938,4944,552,530.37,1624.92,North America,45-54,Female
+2024-11-18,Instagram,New Year Prep,Carousel,78112,7552,1442,1836.26,4501.22,Asia,45-54,Male
+2024-11-19,Facebook,B2B Outreach,Image,44984,2794,493,323.86,520.71,North America,25-34,Female
+2024-11-19,Facebook,Flash Deals,Text,93297,4584,631,1266.34,4393.69,North America,45-54,Male
+2024-11-19,Instagram,Holiday Sale,Carousel,53363,4583,548,1161.58,2007.7,Europe,25-34,All
+2024-11-19,Google,Fall Promo,Video,90972,8281,616,1688.86,3046.02,Global,45-54,Male
+2024-11-19,LinkedIn,Flash Deals,Video,11722,622,74,457.03,700.19,North America,25-34,Female
+2024-11-19,Facebook,B2B Outreach,Text,95060,4702,64,1747.45,3623.89,Global,35-44,Female
+2024-11-19,Facebook,Fall Promo,Image,49678,2005,72,1737.8,6466.82,Europe,45-54,Female
+2024-11-19,Google,B2B Outreach,Text,60311,5697,1104,599.23,1286.15,Europe,35-44,All
+2024-11-19,Facebook,B2B Outreach,Carousel,50297,3191,633,1736.77,3189.36,North America,35-44,Female
+2024-11-20,Facebook,Fall Promo,Image,13598,1004,173,1309.62,2818.84,Europe,35-44,Female
+2024-11-20,LinkedIn,Holiday Sale,Video,69483,4885,646,243.92,719.7,Asia,45-54,Male
+2024-11-20,Google,B2B Outreach,Carousel,28841,2087,121,1155.96,4421.87,Global,18-24,All
+2024-11-20,Facebook,Flash Deals,Video,60239,937,136,1110.57,2580.3,Asia,45-54,All
+2024-11-20,Facebook,Flash Deals,Text,84811,1750,312,428.62,700.75,North America,25-34,Male
+2024-11-20,Facebook,B2B Outreach,Text,31460,1385,222,1788.75,4900.23,Asia,25-34,Male
+2024-11-20,LinkedIn,Flash Deals,Carousel,72122,3355,112,161.07,339.45,Europe,45-54,All
+2024-11-20,Facebook,B2B Outreach,Image,29213,1554,191,254.96,472.24,Global,18-24,Female
+2024-11-20,Facebook,New Year Prep,Carousel,18593,1785,255,1406.22,4222.68,Global,35-44,Male
+2024-11-21,Google,B2B Outreach,Image,14884,506,85,623.9,1822.12,Global,18-24,Male
+2024-11-21,Facebook,New Year Prep,Text,72012,789,71,1902.46,6588.83,Asia,45-54,Female
+2024-11-21,Facebook,Fall Promo,Carousel,83770,4849,871,637.1,1758.6,Global,45-54,Female
+2024-11-21,LinkedIn,Holiday Sale,Image,91760,8500,1240,964.21,2239.85,North America,45-54,Female
+2024-11-21,Facebook,Flash Deals,Text,20928,873,121,1736.82,5025.55,Global,35-44,All
+2024-11-21,Google,Holiday Sale,Video,50469,4723,189,350.2,1320.77,Europe,45-54,Female
+2024-11-21,Google,Fall Promo,Video,33844,612,108,1185.31,3215.04,Global,45-54,Male
+2024-11-22,LinkedIn,Fall Promo,Carousel,13591,556,66,1468.95,3157.58,Global,45-54,All
+2024-11-22,LinkedIn,Holiday Sale,Image,14594,1333,77,415.5,1151.85,Global,25-34,All
+2024-11-22,Facebook,Holiday Sale,Text,43774,2178,212,312.64,609.65,Asia,45-54,Female
+2024-11-22,LinkedIn,New Year Prep,Carousel,73887,6560,541,1784.54,5180.57,North America,25-34,All
+2024-11-22,Instagram,Fall Promo,Image,57049,3790,510,972.3,2015.83,North America,18-24,Male
+2024-11-23,Facebook,Holiday Sale,Text,94437,8066,423,1684.7,5168.88,North America,18-24,All
+2024-11-23,Google,Flash Deals,Carousel,13824,1084,124,1654.85,3359.5,Europe,35-44,Male
+2024-11-23,Instagram,Fall Promo,Carousel,21619,2082,76,254.22,754.84,Global,25-34,Female
+2024-11-23,LinkedIn,Holiday Sale,Image,83633,6617,976,348.61,747.1,Global,45-54,All
+2024-11-23,Instagram,Flash Deals,Image,21733,1585,296,1964.96,5388.84,Global,25-34,All
+2024-11-23,LinkedIn,Holiday Sale,Image,69775,2869,180,685.96,1930.94,Global,45-54,Female
+2024-11-24,Google,B2B Outreach,Video,70136,4663,54,171.79,455.39,Global,45-54,Male
+2024-11-24,Facebook,New Year Prep,Video,82772,7844,71,1754.12,5174.71,Global,45-54,Female
+2024-11-24,LinkedIn,Flash Deals,Text,47692,1512,100,1078.35,3367.6,Asia,45-54,Female
+2024-11-24,Facebook,Fall Promo,Image,90992,2737,123,944.38,1942.15,Europe,18-24,All
+2024-11-24,Instagram,B2B Outreach,Image,29707,2544,179,1880.44,4611.93,Global,18-24,Female
+2024-11-24,Google,B2B Outreach,Video,56068,2614,367,1674.15,6296.85,Global,45-54,All
+2024-11-24,Google,Flash Deals,Image,35344,2150,314,1891.21,4562.87,Global,35-44,Female
+2024-11-24,Instagram,New Year Prep,Image,82982,4396,210,1586.41,3576.46,Asia,45-54,Male
+2024-11-25,Facebook,Flash Deals,Carousel,16162,736,53,644.61,2469.76,Europe,18-24,Female
+2024-11-25,Google,New Year Prep,Text,16486,830,110,1473.89,4794.1,Global,25-34,Female
+2024-11-25,Google,Fall Promo,Text,29105,1951,133,102.59,153.89,North America,25-34,Female
+2024-11-25,Google,New Year Prep,Video,40430,2188,143,682.05,1473.59,Europe,18-24,Male
+2024-11-25,Instagram,Fall Promo,Text,83489,7727,1162,1637.43,5026.34,North America,45-54,Male
+2024-11-25,LinkedIn,New Year Prep,Carousel,96643,6255,1142,1713.33,5433.47,North America,18-24,All
+2024-11-25,Facebook,Flash Deals,Image,52019,1895,176,429.67,1683.97,North America,35-44,Male
+2024-11-25,Google,B2B Outreach,Text,65618,2376,50,970.13,3799.82,Asia,18-24,Male
+2024-11-25,Google,Flash Deals,Carousel,34482,1833,361,1016.87,3412.31,Asia,35-44,All
+2024-11-25,Facebook,Flash Deals,Carousel,81513,5577,333,1527.5,3753.38,Global,35-44,Female
+2024-11-26,Facebook,Flash Deals,Image,33369,2100,398,544.61,1524.87,Global,25-34,All
+2024-11-26,Facebook,Holiday Sale,Video,97528,3988,599,243.66,752.68,North America,25-34,All
+2024-11-26,Instagram,New Year Prep,Image,84459,6785,740,1169.47,3841.33,Asia,25-34,Male
+2024-11-26,LinkedIn,Holiday Sale,Carousel,93735,1652,85,133.63,354.84,Europe,35-44,Male
+2024-11-26,Google,Holiday Sale,Carousel,84875,4415,110,1857.76,2802.9,North America,25-34,All
+2024-11-26,Google,New Year Prep,Video,48741,2820,85,1104.29,1808.53,North America,18-24,Female
+2024-11-26,Google,Fall Promo,Video,47464,701,55,1934.66,4647.55,Europe,45-54,Male
+2024-11-26,Google,Fall Promo,Image,35454,608,67,744.82,2141.98,North America,35-44,All
+2024-11-26,Google,Flash Deals,Video,42566,3380,614,924.83,2855.93,Global,45-54,Male
+2024-11-27,Google,Holiday Sale,Image,69245,1923,225,900.18,2000.99,Asia,45-54,Female
+2024-11-27,Instagram,New Year Prep,Image,16268,1078,70,1552.53,4861.18,Asia,18-24,Male
+2024-11-27,LinkedIn,Flash Deals,Text,94470,5336,736,927.13,2846.9,Europe,18-24,Female
+2024-11-27,Google,Flash Deals,Image,40712,3741,234,1893.69,3705.64,Asia,35-44,Female
+2024-11-27,Google,Fall Promo,Carousel,13154,1038,55,459.7,886.5,Europe,18-24,Male
+2024-11-27,Google,New Year Prep,Carousel,50970,4830,616,718.97,1657.79,North America,45-54,Male
+2024-11-27,LinkedIn,Holiday Sale,Image,14031,1233,200,850.21,2291.55,Global,18-24,All
+2024-11-28,LinkedIn,B2B Outreach,Carousel,84108,5449,643,234.51,479.31,Asia,45-54,Male
+2024-11-28,LinkedIn,Fall Promo,Carousel,38296,2923,311,1355.77,2531.5,Europe,25-34,Female
+2024-11-28,LinkedIn,New Year Prep,Image,58688,5850,108,465.91,1496.56,North America,35-44,Male
+2024-11-28,LinkedIn,Fall Promo,Text,24242,1108,67,539.88,1256.36,North America,45-54,All
+2024-11-28,Facebook,Fall Promo,Carousel,93266,7611,913,753.02,2446.95,Europe,25-34,Male
+2024-11-29,LinkedIn,Holiday Sale,Video,80422,4060,342,149.49,464.63,North America,25-34,Male
+2024-11-29,Google,B2B Outreach,Video,76161,2465,208,206.54,695.74,North America,35-44,All
+2024-11-29,Instagram,Flash Deals,Image,26136,721,138,1737.45,2893.67,Europe,25-34,Female
+2024-11-29,LinkedIn,Flash Deals,Video,51576,1532,260,1669.35,6406.11,Asia,45-54,Female
+2024-11-29,Google,B2B Outreach,Image,16457,1370,186,1127.65,3638.95,Asia,45-54,Male
+2024-11-29,Instagram,Fall Promo,Carousel,97361,7321,200,1697.9,6730.04,Europe,45-54,Female
+2024-11-30,LinkedIn,Flash Deals,Image,26595,1614,197,128.54,193.28,Europe,35-44,All
+2024-11-30,Facebook,Fall Promo,Text,29991,2298,58,316.93,699.92,North America,18-24,Female
+2024-11-30,Instagram,Fall Promo,Image,96812,5883,249,276.68,877.8,Asia,35-44,All
+2024-11-30,Instagram,Holiday Sale,Carousel,16614,1134,157,1264.52,2081.92,Asia,18-24,Male
+2024-11-30,Instagram,New Year Prep,Video,82598,3772,426,273.54,926.11,Asia,45-54,All
